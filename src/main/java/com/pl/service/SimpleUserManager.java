@@ -13,13 +13,11 @@ public class SimpleUserManager implements UserManager {
 
 	private List<User> users;
 	
-	@Override
 	public void increaseAge(int add) {
 		throw new UnsupportedOperationException();
 
 	}
 
-	@Override
 	public List<User> getUsers() {
 		return users;
 	}

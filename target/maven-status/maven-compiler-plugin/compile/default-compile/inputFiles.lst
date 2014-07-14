@@ -1,1 +1,6 @@
-/Users/adixit/Documents/workspace/mktplace-web/src/main/java/com/pl/web/HelloController.java
+/Users/adixit/Documents/workspace/mktplace/src/main/java/com/pl/service/UserManager.java
+/Users/adixit/Documents/workspace/mktplace/src/main/java/com/pl/domain/User.java
+/Users/adixit/Documents/workspace/mktplace/src/main/java/com/pl/service/SimpleUserManager.java
+/Users/adixit/Documents/workspace/mktplace/src/main/java/com/pl/web/UserController.java
+/Users/adixit/Documents/workspace/mktplace/src/main/java/com/pl/config/MvcConfig.java
+/Users/adixit/Documents/workspace/mktplace/src/main/java/com/pl/config/AppConfig.java

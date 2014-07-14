@@ -1,0 +1,6 @@
+com/pl/config/MvcConfig.class
+com/pl/service/SimpleUserManager.class
+com/pl/service/UserManager.class
+com/pl/web/UserController.class
+com/pl/config/AppConfig.class
+com/pl/domain/User.class
